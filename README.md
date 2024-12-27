@@ -74,7 +74,7 @@ Optimized feature selection to enhance model performance.
 
 
 7. Model Development
-[Team Member Name 5]: pranita Lokhande 
+[Team Member Name 5]: 1)pranita Lokhande 2)Rutuja Kandhare
 
 Implemented machine learning algorithms like Logistic Regression, Naive Bayes, and Random Forest.
 Conducted hyperparameter tuning and cross-validation.
