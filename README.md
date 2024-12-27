@@ -74,11 +74,19 @@ Optimized feature selection to enhance model performance.
 
 
 7. Model Development
-[Team Member Name 5]: 1)pranita Lokhande 2)Rutuja Kandhare
+[Team Member Name 5]: 
+1)_pranita Lokhande 
 
-Implemented machine learning algorithms like Logistic Regression, Naive Bayes, and Random Forest.
+Implemented machine learning algorithms like XG Boost,SVM and Random Forest.
 Conducted hyperparameter tuning and cross-validation.
 Evaluated models using metrics such as accuracy, precision, recall, F1-score, and ROC-AUC.
+
+2)_Rutuja Kandhare
+
+Implemented machine learning algorithms like Logistic Regression, Naive Bayes
+Conducted hyperparameter tuning and cross-validation.
+Evaluated models using metrics such as accuracy, precision, recall, F1-score, and ROC-AUC.
+
 
 
 6.**Acknowledgments**
