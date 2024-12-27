@@ -51,7 +51,7 @@ Collected disaster-related datasets from sources like [e.g., Kaggle, Twitter, or
 Verified the integrity and relevance of the data for the classification task.
 
 3. Data Preprocessing
-[Team Member Name 2]:
+[Team Member Name 2]: Ravichandra
 
 Handled missing values and outliers in the dataset.
 Applied text preprocessing, including tokenization, stemming, lemmatization, and stopword removal.
