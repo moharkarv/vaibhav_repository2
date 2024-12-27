@@ -46,24 +46,28 @@ The dataset is sourced from the [Kaggle Competition - Natural Language Processin
 
 1. Data Collection
 [Team Member Name 1]:
+
 Collected disaster-related datasets from sources like [e.g., Kaggle, Twitter, or other platforms].
 Verified the integrity and relevance of the data for the classification task.
 
 3. Data Preprocessing
 [Team Member Name 2]:
+
 Handled missing values and outliers in the dataset.
 Applied text preprocessing, including tokenization, stemming, lemmatization, and stopword removal.
 Normalized data for consistency.
 
-4. Exploratory Data Analysis (EDA)
+5. Exploratory Data Analysis (EDA)
 [Team Member Name 3]:
+
 Conducted statistical analysis to identify trends in disaster types.
 Created visualizations (e.g., bar charts, word clouds) to highlight key patterns in the data.
 Analyzed correlations between features and target labels.
 
 
-5. Feature Engineering
+6. Feature Engineering
 [Team Member Name 4]: _Abhishek Gaikwad_
+
 Extracted text-based features using methods such as TF-IDF, Word2Vec, and GloVe embeddings.
 Added sentiment scores and disaster-related keyword frequency as features.
 Optimized feature selection to enhance model performance.
@@ -71,6 +75,7 @@ Optimized feature selection to enhance model performance.
 
 7. Model Development
 [Team Member Name 5]:
+
 Implemented machine learning algorithms like Logistic Regression, Naive Bayes, and Random Forest.
 Conducted hyperparameter tuning and cross-validation.
 Evaluated models using metrics such as accuracy, precision, recall, F1-score, and ROC-AUC.
