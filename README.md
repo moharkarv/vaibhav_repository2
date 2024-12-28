@@ -32,7 +32,7 @@ Optimized feature selection to enhance model performance.
 
 Implemented machine learning algorithms like XG Boost,SVM and Random Forest. Conducted hyperparameter tuning and cross-validation. Evaluated models using metrics such as accuracy, precision, recall, F1-score.
 
-[Rutuja Kandhare.]
+[Rutuja Kandhare]
 
 Implemented machine learning algorithms like Logistic Regression, Naive Bayes Conducted hyperparameter tuning and cross-validation. Evaluated models using metrics such as accuracy, precision, recall, F1-score.
 
