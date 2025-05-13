@@ -99,7 +99,7 @@ def search_web(query: str) -> dict:
     results = search.get_dict()
 
     if "organic_results" not in results:
-        return {"error": "❌ No search results found."}
+        return {"error": " No search results found."}
 
     for idx, result in enumerate(results["organic_results"][:5]):
         top_link = result.get("link")
@@ -166,7 +166,7 @@ memory = ConversationBufferMemory(memory_key="chat_history", return_messages=Tru
 
 agent = initialize_agent(
     tools=[search_faiss,search_web, do_nothing],
-    llm=llm,  # ✅ LangChain-compatible LLM
+    llm=llm,  # LangChain-compatible LLM
     agent="zero-shot-react-description",
     verbose=True,
     memory=memory,
