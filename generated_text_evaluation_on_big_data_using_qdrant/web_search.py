@@ -173,10 +173,6 @@ class FactCheckerAgent:
         del self.llm
         gc.collect()
 
-# # API keys
-# GEMINI_API_KEY = os.getenv("GEMINI_API_KEY", "AIzaSyBPlf61PMhxrKSDbCH_ugAY1CBva1OWmtE")
-# SERP_API_KEY = os.getenv("SERP_API_KEY", "c9b93f919abb4109ebb993cdc75845c6f8e5713c1b54bdcb48efff55ab0cb43e")
-
 
 
 
